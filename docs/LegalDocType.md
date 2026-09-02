@@ -1,0 +1,15 @@
+# SimplebillyApi::LegalDocType
+
+## Properties
+
+| Name | Type | Description | Notes |
+| ---- | ---- | ----------- | ----- |
+
+## Example
+
+```ruby
+require 'simplebilly_api'
+
+instance = SimplebillyApi::LegalDocType.new()
+```
+
